@@ -1,0 +1,9 @@
+Project_Name,Tech_Stack
+Facial Expression Recognition,"Python, Computer Vision, Deep Learning"
+End-to-End MLflow Project,"Python, MLflow, ZenML, OOP"
+Documentation Recommendation System,"Python, Natural Language Processing, Recommendation Systems"
+Data Analysis for OEMs,"Python, Data Analysis, Pandas, Matplotlib"
+RAG with LLM (Retrieval Augmented Generation),"Python, Hugging Face, FAISS, Transformers"
+Sentiment Analysis using BERT,"Python, BERT, NLP"
+Quora Duplicate Question Checker,"Python, NLP"
+Final Year Project (RAG system with GEMMA 2B-it),"Python, GEMMA 2B-it, FAISS, Transformers, Healthcare"
